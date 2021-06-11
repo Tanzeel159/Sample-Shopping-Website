@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Jeans",
+        "price": 40,
+        "image": { "fields": { "file": { "url": "./images/product1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "hoodie",
+        "price": 30,
+        "image": { "fields": { "file": { "url": "./images/product2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "shoes",
+        "price": 35,
+        "image": { "fields": { "file": { "url": "./images/product3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "watch",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/product4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "sunglasses",
+        "price": 30.50,
+        "image": { "fields": { "file": { "url": "./images/product5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "jewellery",
+        "price": 52.99,
+        "image": { "fields": { "file": { "url": "./images/product6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "handbag",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/product7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "backpack",
+        "price": 43.99,
+        "image": { "fields": { "file": { "url": "./images/product8.jpg" } } }
+      }
+    }
+  ]
+}
